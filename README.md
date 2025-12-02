@@ -20,6 +20,6 @@
 
 ## Extras ⸜(｡˃ ᵕ ˂ )⸝⋆˙⟡
 * I'm an animator and I like to draw!
-* **Biiiig** fan os musicals, such as Hamilton, Hadestown and Just In Time!
+* **Biiiig** fan of musicals, such as Hamilton, Hadestown and Just In Time!
 * ➡️ [My Carrd](https://nickddb.carrd.co/)
 
