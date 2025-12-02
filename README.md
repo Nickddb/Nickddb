@@ -6,6 +6,8 @@
 * Finishing my Systems Analysis and Development technician course at SENAI
 * Currently studying Python through [here](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickddb&show_icons=true&theme=dracula)
+
 ## Contact ✉️
 ➡️ nicollerochaaa07@gmail.com
 
