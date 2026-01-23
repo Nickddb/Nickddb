@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3770A07.svg?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-23A5D6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-* Finishing my Systems Analysis and Development technician course at SENAI
+* Finished my Systems Analysis and Development technician course at SENAI and now I'm graduating at the same instituition (superior course)
 * Currently studying Python through [here](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
 [![Nickddb's GitHub stats](https://github-stats-alpha.vercel.app/api?username=nickddb&show_icons=true&theme=dracula&hide_border=true)](https://github.com/nickddb/github-readme-stats)
